@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Crash Auto Restart Demo</string>
+    <string name="open_web_view">New WebView</string>
+    <string name="crash">Crash</string>
+</resources>
